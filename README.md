@@ -6,7 +6,7 @@ The workflow includes exploratory data analysis, feature selection based on phys
 
 A threshold optimization strategy is implemented using predicted probabilities ("gammaness") to balance gamma efficiency and hadron rejection, providing a practical decision boundary for event selection.
 ### Results
-Accuracy: ~83% \\
-Gamma Efficiency: ~90%\\
-Hadron Leakage: ~29%\\
-Optimal Q-factor: ~1.67 at threshold ≈ 0.5
+* Accuracy: ~83% 
+* Gamma Efficiency: ~90%
+* Hadron Leakage: ~29%
+* Optimal Q-factor: ~1.67 at threshold ≈ 0.5
